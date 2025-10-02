@@ -11,7 +11,7 @@ public class AdvancedCalculator extends  Calculator {
         return 0;
     }
 
-    //계산기 v2.o 나누기 개발 완료
+    //계산기 v2.o 나누기 개발 완료..
     //https://github.com/minjee789/Java-Calculator/issues/3
     @Override
     public int divide()
